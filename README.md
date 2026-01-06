@@ -1,5 +1,7 @@
-# XSS-Scripting
-This is a documentation on XSS Scripting.
+Vulnerability Scanning
+
+This is a documentation on Vulnerability Scanning with Nikto
+
 Using the tool NIKTO
 
 <img width="940" height="225" alt="image" src="https://github.com/user-attachments/assets/68609890-c11d-4502-8a5a-1d8faabd2887" />
